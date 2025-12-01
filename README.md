@@ -15,9 +15,8 @@
 </p>
 
 
-## Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/vusoni.swe) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vusoni.swe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vusoni/)
-[![YouTube](https://img.shields.io/badge/YouTube-black.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Vusoni)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vusoniOfficial)
+## ⛓️‍💥 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/vusoni.swe) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vusoni.swe) [![YouTube](https://img.shields.io/badge/YouTube-black.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Vusoni)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vusoniOfficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vusoni/)
 
 
 
