@@ -32,17 +32,12 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=transparent&text=Oliwier%20Kraszewski&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=#00000000&text=Oliwier%20Kraszewski&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=fff&center=true&vCenter=true&width=650&lines=Code%20is%20poetry%2C%20minimalism%20is%20elegance." alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=vusoni">
-    <img src="https://komarev.com/ghpvc/?username=vusoni&label=Profile%20views&color=00FFFF&style=flat-square" alt="vusoni's profile views" />
-  </a>
-</p>
 
 <img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" width="100%" />
 
@@ -51,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vusoni&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" alt="vusoni's GitHub Stats" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=vusoni&theme=highcontrast&radius=10" alt="vusoni's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=vusoni&theme=black&radius=10" alt="vusoni's Activity Graph" />
 </p>
 
 
