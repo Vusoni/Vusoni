@@ -27,3 +27,5 @@
 
 
 
+![My GIF Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN3Y3NjcXZ6ZjY1bDZwNHNiYjdtZndnaHBtb3NodTlldWZxc2E5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/3AMRa6DRUhMli/giphy.gif)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN3Y3NjcXZ6ZjY1bDZwNHNiYjdtZndnaHBtb3NodTlldWZxc2E5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/3AMRa6DRUhMli/giphy.gif" alt="animation" width="400"/>
