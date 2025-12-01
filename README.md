@@ -1,7 +1,5 @@
 ![image alt](https://github.com/Vusoni/Vusoni/blob/76724b3ea889b0068d3d14a899464933d8be4b83/vusoni-1.png)
 
-![Alt Text](https://github.com/Vusoni/Vusoni/blob/76724b3ea889b0068d3d14a899464933d8be4b83/vusoni-1.png)
-
 *"Code is poetry, minimalism is elegance."*  
 
 
