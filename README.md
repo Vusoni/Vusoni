@@ -1,4 +1,4 @@
-![image alt](https://imgur.com/a/BzqDkZV)
+![image alt](https://github.com/Vusoni/Vusoni/blob/7200d88d5197fa663b898aedcb4633534a34c84a/vusoni.pdf)
 
 
 *"Code is poetry, minimalism is elegance."*  
