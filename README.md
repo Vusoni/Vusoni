@@ -22,7 +22,7 @@
 
 
 
-![My GIF]([https://your-website.com/yourfile.gif](https://jumpshare.com/s/6oH7uDFFjZw119imPqdH))
+![My GIF](https://your-website.com/yourfile.gif](https://jumpshare.com/s/6oH7uDFFjZw119imPqdH)
 
 
 
