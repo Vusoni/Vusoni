@@ -32,7 +32,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=#FFFFFF33&text=Oliwier%20Kraszewski&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&text=Oliwier%20Kraszewski&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=fff&center=true&vCenter=true&width=650&lines=Code%20is%20poetry%2C%20minimalism%20is%20elegance." alt="Typing introduction" />
