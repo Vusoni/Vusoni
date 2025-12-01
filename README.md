@@ -1,4 +1,4 @@
-![image alt](https://github.com/Vusoni/Vusoni/blob/4558935968d1301a6068d03bd90d507903a7dcb1/Black%20and%20White%20Minimalistic%20Fashion%20Agency%20Portfolio%20Presentation.pdf)
+![image alt](https://imgur.com/a/BzqDkZV)
 
 
 *"Code is poetry, minimalism is elegance."*  
