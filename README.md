@@ -1,10 +1,11 @@
 ![image alt](https://github.com/Vusoni/Vusoni/blob/76724b3ea889b0068d3d14a899464933d8be4b83/vusoni-1.png)
 
 *"Code is poetry, minimalism is elegance."*  
+<!-- 20px vertical spacer -->
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="" width="1" height="20" />
 
----
----
----
+-
+
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/vusoni.swe) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vusoni.swe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vusoniOfficial) 
 
