@@ -22,10 +22,57 @@
 
 
 
-![My GIF]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN3Y3NjcXZ6ZjY1bDZwNHNiYjdtZndnaHBtb3NodTlldWZxc2E5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3AMRa6DRUhMli/giphy.gif])
 
 
 
 
-![My GIF Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN3Y3NjcXZ6ZjY1bDZwNHNiYjdtZndnaHBtb3NodTlldWZxc2E5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/3AMRa6DRUhMli/giphy.gif)
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN3Y3NjcXZ6ZjY1bDZwNHNiYjdtZndnaHBtb3NodTlldWZxc2E5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/3AMRa6DRUhMli/giphy.gif" alt="animation" width="400"/>
+
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&text=Oliwier%20Kraszewski&fontSize=48&fontColor=white&animation=twinkling&fontAlignY=35&desc=Developer&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Code%20is%20poetry%2C%20minimalism%20is%20elegance." alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=vusoni">
+    <img src="https://komarev.com/ghpvc/?username=vusoni&label=Profile%20views&color=00FFFF&style=flat-square" alt="vusoni's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" width="100%" />
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vusoni&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" alt="vusoni's GitHub Stats" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=vusoni&theme=highcontrast&radius=10" alt="vusoni's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vusoni&layout=compact&theme=highcontrast&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFvcHVpc3Y5enF1ZGxqNDYxMzRqOGE0Yzd3b3ZzZjhqbTl6dDRqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3AMRa6DRUhMli/giphy.gif" alt="Bottom Line" width="100%" />
+</div>
+
