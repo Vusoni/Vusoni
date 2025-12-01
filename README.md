@@ -1,5 +1,7 @@
 ![image alt](https://github.com/Vusoni/Vusoni/blob/76724b3ea889b0068d3d14a899464933d8be4b83/vusoni-1.png)
 
+![image alt](https://github.com/Vusoni/Vusoni/blob/49dce33d5474e5392682b4ee3993310556f29bde/banner.png)
+
 *"Code is poetry, minimalism is elegance."*  
 <!-- 20px vertical spacer -->
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="" width="1" height="20" />
