@@ -1,11 +1,12 @@
 ![image alt](https://github.com/Vusoni/Vusoni/blob/7200d88d5197fa663b898aedcb4633534a34c84a/vusoni.pdf)
 
+![Alt Text]([https://example.com/image.png](https://github.com/Vusoni/Vusoni/blob/7200d88d5197fa663b898aedcb4633534a34c84a/vusoni.pdf))
 
 *"Code is poetry, minimalism is elegance."*  
 
 
 ## Connect with me:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vusoni.swe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vusoniOfficial) [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/vusoni.swe) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/vusoni.swe) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vusoni.swe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vusoniOfficial) 
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Expo](https://img.shields.io/badge/expo-black?style=for-the-badge&logo=expo&logoColor=#D04A37) ![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white) 
