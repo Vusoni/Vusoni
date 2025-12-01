@@ -7,6 +7,14 @@
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="" width="1" height="20" />
 
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&text=Oliwier%20Kraszewski&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=fff&center=true&vCenter=true&width=650&lines=Code%20is%20poetry%2C%20minimalism%20is%20elegance." alt="Typing introduction" />
+</p>
+
+
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/vusoni.swe) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vusoni.swe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vusoniOfficial) 
 
@@ -25,15 +33,8 @@
 
 
 
-| adsadpsadsadadsa
-
-
-
-
-
 
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="" width="1" height="20" />
-<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="" width="1" height="20" />
 
 
 
@@ -41,9 +42,4 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&text=Oliwier%20Kraszewski&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=fff&center=true&vCenter=true&width=650&lines=Code%20is%20poetry%2C%20minimalism%20is%20elegance." alt="Typing introduction" />
-</p>
 
