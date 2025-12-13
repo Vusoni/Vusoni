@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&text=Oliwier%20Vusoni&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+![image alt](https://github.com/Vusoni/Vusoni/blob/49dce33d5474e5392682b4ee3993310556f29bde/banner.png)
 
 
 
@@ -35,7 +35,10 @@
 ![Adobe](https://img.shields.io/badge/adobe-black.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-black.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-black.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-black.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-black.svg?style=for-the-badge&logo=blender&logoColor=white) 
 
 
-![image alt](https://github.com/Vusoni/Vusoni/blob/49dce33d5474e5392682b4ee3993310556f29bde/banner.png)
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&text=Oliwier%20Vusoni&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+
 
 
 <!-- Divider -->
