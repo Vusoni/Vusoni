@@ -1,6 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&text=Oliwier%20Vusoni&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
-![image alt](https://github.com/Vusoni/Vusoni/blob/49dce33d5474e5392682b4ee3993310556f29bde/banner.png)
+
 
 
 <!-- Divider -->
