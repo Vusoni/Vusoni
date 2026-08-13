@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&text=Oliwier%20Kraszewski%20~%20Vusoni&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Mobile%20App%20Founder&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&text=Oliwier%20Kraszewski%20~%20Vusoni&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mobile%20App%20Founder&descSize=18&descAlignY=55&textBg=false"/>
 
 
 <p align="center">
